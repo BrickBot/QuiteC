@@ -1,0 +1,1 @@
+NOTE: librcx.tar.gz from kekoa is new that what is packaged with QC
